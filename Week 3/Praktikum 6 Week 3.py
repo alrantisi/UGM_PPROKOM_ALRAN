@@ -5,5 +5,5 @@ that is labeled "Milk Experiment".
 Please do not drink it. 
 Sincerely, 
 Bob''' 
-hasil = a.split()
+hasil = a.split('\n')
 print(hasil)
